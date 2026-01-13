@@ -10,3 +10,4 @@ This project contains a couple of exercises
 
 -test
 -test1
+-test
